@@ -30,7 +30,7 @@ async function getjoke(){
         jokeelement.innerText = "An error happened. Try again later!"
 
         btnelement.disabled = false;
-        btnelement.innerText = "TELL ME A JOKE"
+        btnelement.innerText = "TELL ME A JOKE";
 
     }
 }
